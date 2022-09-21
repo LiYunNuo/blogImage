@@ -1,0 +1,19 @@
+{
+  "name": "lycat-static",
+  "version": "1.0.0",
+  "description": "lycat static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiYunNuo/blogImage.git"
+  },
+  "author": "lycat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiYunNuo/blogImage/issues"
+  },
+  "homepage": "https://github.com/LiYunNuo/blogImage#readme"
+}
